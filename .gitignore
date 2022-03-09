@@ -1,0 +1,7 @@
+videos/*.mp4
+images/*
+latents/*
+
+cartoon_stylegan2/*
+vits/*
+Wav2Lip/*
